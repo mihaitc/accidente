@@ -1,0 +1,10 @@
+ID,Latitude,Longitude,Date/Hour,Type,Map,City,Reliability,Number comments,Number thumbs up
+124742,46.240647,27.086546,09-04-2020 19:14,Major,DN2 București-Suceava,Valea Seacă,6,0,1
+125757,45.203521,26.850595,10-04-2020 13:33,Minor,DN2 București-Suceava,,6,0,1
+126326,45.49651,27.075747,10-04-2020 19:44,Minor,DN2 București-Suceava,Obrejița,5,0,0
+126930,45.379276,27.032753,11-04-2020 08:33,Minor,DN2 București-Suceava,Râmnicu Sărat,9,0,3
+127306,46.661823,26.904552,11-04-2020 12:04,Major,DN2 București-Suceava,,10,0,6
+127904,45.291756,26.913081,11-04-2020 18:29,Minor,DN2 București-Suceava,,6,0,1
+128916,45.05905,26.754589,12-04-2020 13:16,Minor,DN2 București-Suceava,Pietrosu,5,0,0
+129080,44.587087,26.398024,12-04-2020 15:29,Major,DN2 București-Suceava,,10,10,71
+129375,44.694272,26.573192,12-04-2020 18:12,Minor,DN2 București-Suceava,,5,0,0

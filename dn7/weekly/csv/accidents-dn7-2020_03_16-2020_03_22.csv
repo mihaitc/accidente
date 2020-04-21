@@ -1,0 +1,11 @@
+ID,Latitude,Longitude,Date/Hour,Type,Map,City,Reliability,Number comments,Number thumbs up
+100938,45.307659,24.275441,16-03-2020 02:19,Major,DN7 Pitești-Sibiu,,7,0,2
+101125,45.231321,24.339603,16-03-2020 10:01,Minor,DN7 Pitești-Sibiu,Călimănești,10,0,4
+102027,45.051673,24.46874,17-03-2020 15:54,Minor,DN7 Pitești-Sibiu,"Căzănești, Milcoiu",7,0,1
+102340,45.181754,24.364917,17-03-2020 22:46,Minor,DN7 Pitești-Sibiu,Gura Văii,7,0,2
+102544,44.999703,24.596728,18-03-2020 07:22,Minor,DN7 Pitești-Sibiu,,8,0,2
+102769,45.005156,24.553946,18-03-2020 12:48,Major,DN7 Pitești-Sibiu,,10,0,17
+102889,44.959456,24.693021,18-03-2020 15:51,Major,DN7 Pitești-Sibiu,Dumbrăvești,6,1,0
+103618,44.999601,24.605382,19-03-2020 14:33,Major,DN7 Pitești-Sibiu,Lintești,6,0,0
+104645,45.386721,24.299149,20-03-2020 17:54,Minor,DN7 Pitești-Sibiu,,10,0,11
+105875,45.012496,24.546856,22-03-2020 16:15,Major,DN7 Pitești-Sibiu,,10,6,8
