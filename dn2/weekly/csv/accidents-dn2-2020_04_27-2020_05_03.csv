@@ -1,0 +1,21 @@
+ID,Latitude,Longitude,Date/Hour,Type,Map,City,Reliability,Number comments,Number thumbs up
+150735,44.74084,26.640759,27-04-2020 02:43,Major,DN2 București-Suceava,,7,0,2
+150977,46.326483,27.011659,27-04-2020 08:17,Major,DN2 București-Suceava,Răcăciuni,10,6,13
+151552,45.135936,26.788441,27-04-2020 15:31,Major,DN2 București-Suceava,,8,0,2
+152229,46.479281,26.916741,27-04-2020 22:52,Minor,DN2 București-Suceava,Nicolae Bălcescu,5,0,0
+152578,45.291685,26.912965,28-04-2020 09:04,Minor,DN2 București-Suceava,,6,0,0
+153328,46.579189,26.931232,28-04-2020 16:49,Minor,DN2 București-Suceava,Bacău,5,0,0
+153329,45.048526,26.759358,28-04-2020 17:43,Minor,DN2 București-Suceava,Costești,7,0,1
+154133,45.491928,27.072955,29-04-2020 09:02,Major,DN2 București-Suceava,,10,2,10
+154134,45.661594,27.164272,29-04-2020 09:33,Major,DN2 București-Suceava,Golești,10,1,6
+154549,46.970671,26.909951,29-04-2020 14:22,Minor,DN2 București-Suceava,,8,0,2
+156233,45.687164,27.197862,30-04-2020 15:09,Major,DN2 București-Suceava,Focșani,6,0,1
+156947,46.090256,27.197515,01-05-2020 01:37,Major,DN2 București-Suceava,,5,0,0
+158214,44.706673,26.618403,01-05-2020 21:34,Minor,DN2 București-Suceava,,7,1,2
+158339,45.236956,26.86937,01-05-2020 22:48,Major,DN2 București-Suceava,Poșta Câlnău,5,0,0
+159296,45.303657,26.923847,02-05-2020 14:34,Major,DN2 București-Suceava,,10,3,27
+159297,45.341159,26.982229,02-05-2020 14:29,Minor,DN2 București-Suceava,,6,0,0
+159298,45.638939,27.137298,02-05-2020 14:34,Major,DN2 București-Suceava,,10,1,7
+159456,45.686,27.196403,02-05-2020 16:07,Minor,DN2 București-Suceava,Focșani,5,0,0
+159819,44.58349,26.394014,02-05-2020 21:36,Minor,DN2 București-Suceava,,5,0,0
+161449,44.697247,26.57436,03-05-2020 18:00,Minor,DN2 București-Suceava,,10,0,4
