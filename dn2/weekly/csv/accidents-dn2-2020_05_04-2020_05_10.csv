@@ -1,0 +1,14 @@
+ID,Latitude,Longitude,Date/Hour,Type,Map,City,Reliability,Number comments,Number thumbs up
+163132,45.45286,27.05759,04-05-2020 18:18,Major,DN2 București-Suceava,,10,0,11
+163666,44.698336,26.576001,05-05-2020 07:13,Major,DN2 București-Suceava,,5,0,0
+164156,45.136788,26.790541,05-05-2020 13:31,Major,DN2 București-Suceava,,10,0,9
+164314,45.766486,27.203958,05-05-2020 15:44,Major,DN2 București-Suceava,,5,0,0
+164395,45.796256,27.215878,05-05-2020 15:46,Major,DN2 București-Suceava,,6,0,1
+165878,45.059592,26.768155,06-05-2020 15:42,Major,DN2 București-Suceava,,8,0,4
+167086,45.759754,27.203225,07-05-2020 11:28,Minor,DN2 București-Suceava,,7,0,1
+167087,46.156636,27.13995,07-05-2020 11:16,Minor,DN2 București-Suceava,,10,0,5
+167648,46.205029,27.110178,07-05-2020 18:03,Minor,DN2 București-Suceava,Sascut,9,0,3
+168044,45.922478,27.208667,08-05-2020 06:38,Minor,DN2 București-Suceava,Haret,6,0,0
+168347,46.478623,26.919527,08-05-2020 09:48,Major,DN2 București-Suceava,Nicolae Bălcescu,9,0,5
+169048,45.661964,27.164608,08-05-2020 18:34,Minor,DN2 București-Suceava,Golești,10,0,8
+169595,44.640059,26.486298,09-05-2020 07:12,Minor,DN2 București-Suceava,Movilița,5,0,0
