@@ -1,0 +1,27 @@
+ID,Latitude,Longitude,Date/Hour,Type,Map,City,Reliability,Number comments,Number thumbs up
+173016,47.349519,26.415044,11-05-2020 14:19,Minor,DN2 București-Suceava,Roșiori,8,0,3
+173107,46.322504,27.015056,11-05-2020 15:44,Minor,DN2 București-Suceava,Răcăciuni,8,0,5
+173762,47.027748,26.882605,12-05-2020 04:10,Major,DN2 București-Suceava,,6,0,1
+173797,44.548422,26.37708,12-05-2020 06:44,Major,DN2 București-Suceava,Lilieci,10,4,25
+174267,46.617728,26.921405,12-05-2020 11:45,Major,DN2 București-Suceava,Bogdan Vodă,10,0,9
+174823,46.582914,26.930029,12-05-2020 19:06,Major,DN2 București-Suceava,Bacău,9,0,4
+174909,45.219957,26.861656,12-05-2020 20:19,Major,DN2 București-Suceava,Potârnichești,10,1,28
+175291,45.219934,26.861641,13-05-2020 08:37,Major,DN2 București-Suceava,Potârnichești,10,1,34
+177523,45.955974,27.204716,14-05-2020 18:56,Major,DN2 București-Suceava,Călimănești,5,0,0
+177956,45.72201,27.199114,15-05-2020 06:49,Minor,DN2 București-Suceava,,6,0,1
+178080,45.870042,27.210281,15-05-2020 09:15,Minor,DN2 București-Suceava,Mărășești,5,0,0
+178081,45.831261,27.210875,15-05-2020 09:26,Major,DN2 București-Suceava,,7,1,0
+178228,46.241113,27.086118,15-05-2020 10:58,Major,DN2 București-Suceava,Valea Seacă,5,0,0
+178556,45.549642,27.106879,15-05-2020 15:26,Major,DN2 București-Suceava,Dumbrăveni,10,0,21
+178646,46.609729,26.926144,15-05-2020 16:22,Minor,DN2 București-Suceava,Bogdan Vodă,6,0,0
+179016,44.68264,26.565899,15-05-2020 19:43,Major,DN2 București-Suceava,Coșereni,10,0,9
+179130,44.616641,26.441876,15-05-2020 20:59,Minor,DN2 București-Suceava,,10,1,8
+180539,47.275648,26.51333,16-05-2020 20:28,Minor,DN2 București-Suceava,,7,1,1
+181493,45.393281,27.045617,17-05-2020 14:32,Minor,DN2 București-Suceava,Râmnicu Sărat,10,0,7
+181593,46.52357,26.922147,17-05-2020 14:55,Minor,DN2 București-Suceava,Bacău,9,0,3
+181594,47.391165,26.332025,17-05-2020 15:21,Major,DN2 București-Suceava,Vadu Moldovei,10,0,41
+181760,46.958194,26.913687,17-05-2020 16:51,Minor,DN2 București-Suceava,,8,0,2
+181761,44.617241,26.443385,17-05-2020 17:38,Minor,DN2 București-Suceava,,10,1,33
+181847,45.709114,27.196635,17-05-2020 17:55,Minor,DN2 București-Suceava,Focșani,6,0,0
+181848,47.569081,26.274862,17-05-2020 18:25,Minor,DN2 București-Suceava,Cumpărătura,10,0,4
+182047,44.574011,26.387068,17-05-2020 20:07,Major,DN2 București-Suceava,,5,0,0
